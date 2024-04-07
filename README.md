@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm ✨ Ryan ✨, nice to meet you!
+I'm ✨ **Ryan** ✨, nice to meet you!
 
 ## 👾 Projects
 I'm currently working on a few cool projects, feel free to see!
