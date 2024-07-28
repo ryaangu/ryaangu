@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm ✨ **Ryan** ✨, nice to meet you!
+I'm ✨ **Ryan** ✨, nice to meet you!\
+[Check out my portfolio!](https://github.com/ryaangu/portfolio)
 
 ## 👾 Projects
 I'm currently working on a few cool projects, feel free to see!
